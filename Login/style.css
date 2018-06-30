@@ -1,0 +1,86 @@
+body{
+	margin: 0;
+	padding: 0;
+	background:purple;
+	font-family: 'Caveat', cursive;
+
+
+}
+
+#login{
+		max-width: 340px;
+		margin:10% auto;
+		border-radius: 5px;
+		background: #FFE4C4;
+}
+#login h3{
+		text-align: center;
+		padding: 25px 10px;
+		background-color: orange;
+		color: #fff;
+		font-size: 22px;
+		border-radius: 5px 5px 0 0 ;
+}
+form{
+	padding: 0;
+	margin: auto;
+	padding: 15px;
+}
+
+.inputform {
+	width: 90%;
+	padding: 1em;
+	margin-top: 1.2em;
+	color: #888;
+	font-size: 12px;
+}
+.submitform{
+	width: 100%;
+	padding: 1.4em;
+	margin: 1.5em 0;
+	color: #888;
+	background-color: #DAA520;
+	border: none;
+	color:#eee;
+	border-bottom: 4px solid transparent;
+	font-size: 12px;
+}
+.submitform:hover{
+	opacity: 0.8;
+	border-color: #00adb1;
+}
+.formp{
+	text-align: center;
+	color: #888;
+	width: 30px;
+	margin: 10px auto 0;
+	background: #f9f9f9;
+	bottom: 20px;
+	position: relative;
+}
+.border-p{
+	border-top: 1px solid #888;
+	margin: 10px 10px;
+}
+
+.loginfb{
+	width: 100%;
+	padding: 1.4em;
+	margin: 1.5em 8;
+	color: #888;
+	background-color: blue;
+	border: none;
+	color:#eee;
+	border-bottom: 4px ;
+	font-size: 12px;
+	opacity: 0.8;
+}
+.loginfb:hover{
+	opacity: 0.5;
+	border-color: #3b3998;
+}
+
+
+
+
+
